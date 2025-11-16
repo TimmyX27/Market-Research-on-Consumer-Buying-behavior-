@@ -1,0 +1,104 @@
+ID,Gender,Age_Range,Income_level,Location,Shopping_Frequency,Monthly_Spending,Preferred_Shoping_option,Preferred_Payment_option,Influence_on_buying_Decision,Occupation,Product_frequently_bought
+ID001,Female,18-25,"Low  (Less than 100K monthly)",Lagos,3,"Less than 100K","Physical store/Market",Transfer,Quality,Students,Food
+ID002,Female,18-25,"Low  (Less than 100K monthly)",Lagos,4,"Less than 100K","Physical store/Market",Transfer,Quality,"Health worker",Food
+ID004,Female,18-25,"Low  (Less than 100K monthly)",Lagos,5,"Less than 100K","Physical store/Market","It depends,cash for markets and card for stores & supermarkets.",Necessity,Students,Food
+ID005,Male,18-25,"Low  (Less than 100K monthly)",Kwara,1,"Less than 100K","Physical store/Market",Card,Necessity,Students,Food
+ID006,Male,26-35,"Low  (Less than 100K monthly)",Lagos,1,"Less than 100K","Physical store/Market",Transfer,Necessity,Unemployed,Food
+ID007,Female,18-25,"Low  (Less than 100K monthly)",Oyo,2,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID008,Male,26-35,"Low  (Less than 100K monthly)",Kwara,4,"Less than 100K","Physical store/Market",Cash,Quality,Students,Food
+ID009,Female,18-25,"Low  (Less than 100K monthly)",Kwara,3,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID010,Female,18-25,"Low  (Less than 100K monthly)",Lagos,1,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID011,Female,18-25,"Medium (100-400K monthly)",Kwara,3,"Less than 100K","Physical store/Market",Transfer,Quality,Students,Food
+ID012,Male,18-25,"Low  (Less than 100K monthly)",Kwara,3,"100- 500K","Physical store/Market",Transfer,Necessity,Students,Groceries
+ID013,Female,18-25,"Low  (Less than 100K monthly)",Kwara,2,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID014,Female,18-25,"Low  (Less than 100K monthly)",Abuja,1,"Less than 100K","Physical store/Market",Card,Necessity,Students,Food
+ID015,Female,18-25,"Low  (Less than 100K monthly)",Kwara,6,"Less than 100K","Physical store/Market",Card,Necessity,Students,Food
+ID016,Female,18-25,"Low  (Less than 100K monthly)",Lagos,3,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Groceries
+ID017,Male,26-35,"High (Above 400K monthly)",Abuja,7,"100- 500K","Physical store/Market",Transfer,Necessity,Entrepreneur,Groceries
+ID018,Female,18-25,"High (Above 400K monthly)",Lagos,10,"100- 500K","Physical store/Market",Card,Necessity,Students,Beauty
+ID019,Female,18-25,"Low  (Less than 100K monthly)",Kwara,1,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Fashion
+ID020,Female,18-25,"Low  (Less than 100K monthly)",Kwara,1,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Groceries
+ID021,Female,18-25,"Low  (Less than 100K monthly)",Kwara,1,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Fashion
+ID022,Female,18-25,"Low  (Less than 100K monthly)",Kwara,1,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Fashion
+ID023,Male,18-25,"Low  (Less than 100K monthly)",Osun,4,"Less than 100K","Physical store/Market",Transfer,Quality,Students,Groceries
+ID024,Female,26-35,"Medium (100-400K monthly)",Lagos,1,"Less than 100K","Physical store/Market",Transfer,Necessity,CSR,Groceries
+ID025,Male,26-35,"Medium (100-400K monthly)",Kwara,2,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID026,Male,26-35,"Medium (100-400K monthly)",Bauchi,5,"Less than 100K","Physical store/Market",Transfer,Necessity,"Civil Servants",Food
+ID027,Female,26-35,"Medium (100-400K monthly)",Abuja,2,"100- 500K","Physical store/Market",Transfer,Necessity,"Civil Servants",Fashion
+ID028,Female,26-35,"Medium (100-400K monthly)",Kano,1,"Less than 100K","Physical store/Market",Card,Necessity,"Health worker",Food
+ID029,Female,26-35,"Medium (100-400K monthly)",Kaduna,3,"100- 500K","Online sometimes",Transfer,"Influencers, discounts and giveaways",Banker,"Food items, clothes and skincare"
+ID030,Male,26-35,"Medium (100-400K monthly)",Kaduna,5,"Less than 100K","Physical store/Market",Transfer,Necessity,Entrepreneur,Food
+ID031,Female,18-25,"Low  (Less than 100K monthly)",Kwara,1,"Less than 100K","Physical store/Market",Transfer,Quality,Students,Fashion
+ID032,Female,26-35,"Low  (Less than 100K monthly)",Plateau,1,"Less than 100K","Physical store/Market",Card,Quality,Students,Food
+ID033,Female,18-25,"Low  (Less than 100K monthly)",Niger,1,"Less than 100K",Jumia,Transfer,Necessity,Students,Fashion
+ID034,Male,18-25,"Low  (Less than 100K monthly)",Kogi,1,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID035,Female,18-25,"Low  (Less than 100K monthly)",Kwara,4,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Groceries
+ID036,Female,18-25,"Low  (Less than 100K monthly)",Oyo,2,"Less than 100K","Physical store/Market",Transfer,Necessity,Teacher,Food
+ID037,Female,18-25,"Medium (100-400K monthly)",Ogun,7,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Groceries
+ID038,Male,18-25,"Low  (Less than 100K monthly)",Kwara,3,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID039,Female,18-25,"Low  (Less than 100K monthly)",Ogun,10,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID040,Male,18-25,"Low  (Less than 100K monthly)",Kwara,2,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID041,Male,26-35,"Low  (Less than 100K monthly)",Delta,2,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID042,Male,36-45,"High (Above 400K monthly)",Lagos,4,"100- 500K","Physical store/Market",Card,Quality,Entrepreneur,Fashion
+ID043,Female,18-25,"Low  (Less than 100K monthly)",Kwara,2,"Less than 100K","Physical store/Market",Card,Necessity,Students,Food
+ID044,Female,18-25,"Medium (100-400K monthly)",Kano,1,"100- 500K","Physical store/Market",Transfer,Necessity,"Civil Servants",Food
+ID045,Female,18-25,"Low  (Less than 100K monthly)",Ogun,3,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID046,Male,18-25,"Medium (100-400K monthly)",Kwara,5,"100- 500K","Physical store/Market",Transfer,Discounts,Students,Fashion
+ID047,Male,18-25,"Low  (Less than 100K monthly)",Kogi,1,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID048,Male,18-25,"Low  (Less than 100K monthly)",Kwara,2,"Less than 100K","Physical store/Market",Transfer,Quality,Students,Food
+ID049,Male,18-25,"Medium (100-400K monthly)",Kwara,3,"100- 500K","Physical store/Market",Transfer,Quality,Students,Food
+ID050,Male,18-25,"Low  (Less than 100K monthly)",Kwara,3,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Groceries
+ID051,Male,18-25,"Low  (Less than 100K monthly)",Kwara,2,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID052,Male,18-25,"Low  (Less than 100K monthly)",Kwara,2,"Less than 100K",Jumia,Transfer,Friends,Students,Fashion
+ID053,Female,18-25,"Low  (Less than 100K monthly)",Kwara,4,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID054,Female,18-25,"Low  (Less than 100K monthly)",Lagos,3,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Beauty
+ID055,Male,18-25,"Low  (Less than 100K monthly)",Kwara,1,"Less than 100K","Physical store/Market",Card,Necessity,Students,Groceries
+ID056,Female,18-25,"Low  (Less than 100K monthly)",Abuja,2,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID057,Female,18-25,"Low  (Less than 100K monthly)",Kwara,3,"100- 500K","Physical store/Market",Card,Necessity,Students,Food
+ID058,Male,18-25,"Low  (Less than 100K monthly)",Lagos,8,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID059,Female,18-25,"Low  (Less than 100K monthly)",Kwara,2,"Less than 100K","Physical store/Market",Card,Necessity,Students,Food
+ID060,Male,26-35,"Medium (100-400K monthly)",Borno,7,"100- 500K","Online and Physical store","Cash and Transfer",Quality,Students,Food
+ID061,Female,46+,"Medium (100-400K monthly)",Kwara,6,"100- 500K","Physical store/Market",Transfer,Quality,Teacher,Food
+ID062,Female,26-35,"Low  (Less than 100K monthly)",Lagos,2,"Less than 100K","Physical store/Market",Transfer,Discounts,"Civil Servants",Food
+ID063,Male,18-25,"Low  (Less than 100K monthly)",Lagos,5,"Less than 100K","Physical store/Market",Transfer,Quality,Students,Food
+ID064,Female,18-25,"Low  (Less than 100K monthly)",Kwara,3,"100- 500K","Physical store/Market",Transfer,Necessity,Students,Food
+ID065,Female,18-25,"Low  (Less than 100K monthly)",Kano,1,"Less than 100K","Physical store/Market",Card,Quality,Students,Groceries
+ID066,Male,18-25,"Medium (100-400K monthly)",Kano,4,"Less than 100K","Physical store/Market",Transfer,Quality,Entrepreneur,Food
+ID067,Female,18-25,"Low  (Less than 100K monthly)",Ogun,1,"Less than 100K","Physical store/Market",Card,Necessity,Students,Food
+ID068,Female,18-25,"Medium (100-400K monthly)",Kwara,1,"100- 500K","Physical store/Market",Transfer,Necessity,Students,Food
+ID069,Male,18-25,"Low  (Less than 100K monthly)",Osun,2,"Less than 100K","Physical store/Market",Cash,Necessity,Students,Food
+ID070,Female,26-35,"Medium (100-400K monthly)",Lagos,2,"100- 500K","Physical store/Market",Transfer,Necessity,Engineering,Food
+ID071,Female,26-35,"Medium (100-400K monthly)",Abuja,1,"Less than 100K",WhatsApp,Transfer,Discounts,Entrepreneur,Groceries
+ID072,Male,26-35,"Medium (100-400K monthly)",Abuja,8,"100- 500K","Physical store/Market",Transfer,Necessity,Entrepreneur,Food
+ID073,Female,26-35,"Low  (Less than 100K monthly)",Abuja,5,"Less than 100K","Physical store/Market",Transfer,Necessity,Freelancer,Groceries
+ID074,Male,18-25,"Low  (Less than 100K monthly)",Kano,5,"Less than 100K","Physical store/Market",Card,Discounts,Students,Food
+ID075,Male,18-25,"Low  (Less than 100K monthly)",Kwara,4,"100- 500K","Physical store/Market",Transfer,"Money at hand",Students,Fashion
+ID076,Female,26-35,"Low  (Less than 100K monthly)",Kaduna,5,"100- 500K","Physical store/Market",Card,Necessity,"Civil Servants","Food and beauty"
+ID077,Female,18-25,"Low  (Less than 100K monthly)",Kwara,2,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Groceries
+ID078,Male,18-25,"Low  (Less than 100K monthly)",Kwara,2,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID079,Female,26-35,"Low  (Less than 100K monthly)",Ogun,1,"Less than 100K","Physical store/Market",Transfer,Necessity,Unemployed,Groceries
+ID080,Female,18-25,"Low  (Less than 100K monthly)",Lagos,1,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID081,Male,18-25,"Medium (100-400K monthly)",Kogi,10,"100- 500K","Physical store/Market",Transfer,Necessity,Students,Electronics
+ID082,Male,18-25,"Low  (Less than 100K monthly)",Kwara,1,"Less than 100K","Physical store/Market",Card,Ads,Students,Groceries
+ID083,Female,18-25,"Low  (Less than 100K monthly)",Kogi,5,"100- 500K","Physical store/Market",Transfer,Quality,Unemployed,Food
+ID084,Female,18-25,"Low  (Less than 100K monthly)",Lagos,3,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID085,Female,18-25,"Low  (Less than 100K monthly)",Kwara,5,"100- 500K","Physical store/Market",Card,Necessity,Students,Food
+ID086,Male,18-25,"Low  (Less than 100K monthly)",Lagos,1,"Less than 100K","Physical store/Market",Transfer,Quality,Students,Food
+ID087,Female,18-25,"Low  (Less than 100K monthly)",Kwara,5,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Groceries
+ID088,Female,18-25,"Low  (Less than 100K monthly)",Kwara,2,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID089,Female,18-25,"Low  (Less than 100K monthly)",Kwara,3,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Fashion
+ID090,Female,18-25,"Medium (100-400K monthly)",Abuja,4,"Less than 100K","Physical store/Market",Transfer,Quality,Students,Food
+ID091,Male,26-35,"Low  (Less than 100K monthly)",Kaduna,1,"Less than 100K","Physical store/Market",Cash,Necessity,Teacher,Food
+ID092,Male,26-35,"Medium (100-400K monthly)",Kaduna,8,"Less than 100K","Physical store/Market",Transfer,Quality,Entrepreneur,Food
+ID093,Female,26-35,"Medium (100-400K monthly)",Kaduna,10,"100- 500K","Physical store/Market",Transfer,Necessity,"Civil Servants",Groceries
+ID094,Female,36-45,"Medium (100-400K monthly)",Lagos,10,"100- 500K","Physical store/Market",Transfer,Quality,"Health worker",Food
+ID095,Female,26-35,"Medium (100-400K monthly)",Kaduna,10,"100- 500K","Physical store/Market",Card,Necessity,"Civil Servants","Groceries, food and beauty"
+ID096,Female,18-25,"Low  (Less than 100K monthly)",Abuja,2,"Less than 100K","Physical store/Market",Transfer,Quality,Students,Food
+ID097,Female,36-45,"Medium (100-400K monthly)",Kogi,4,"100- 500K","Physical store/Market",Cash,Necessity,"Health worker",Food
+ID098,Male,18-25,"Low  (Less than 100K monthly)",Kwara,3,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID099,Male,18-25,"Low  (Less than 100K monthly)",Kano,6,"Less than 100K","Physical store/Market",Transfer,Necessity,Entrepreneur,Groceries
+ID100,Male,18-25,"Low  (Less than 100K monthly)",Ekiti,4,"Less than 100K","Physical store/Market",Transfer,Necessity,Student,Food
+ID101,Male,26-35,"Low  (Less than 100K monthly)",Kogi,5,"Less than 100K","Physical store/Market",Transfer,Discounts,Students,Food
+ID102,Male,18-25,"Medium (100-400K monthly)",Abuja,1,"Less than 100K","Physical store/Market",Transfer,Necessity,"Civil Servants",Food
+ID103,Male,26-35,"Medium (100-400K monthly)",Osun,2,"Less than 100K","Physical store/Market",Transfer,Necessity,Students,Food
+ID104,Male,26-35,"Low  (Less than 100K monthly)",Oyo,3,"Less than 100K","Physical store/Market",Card,Necessity,Corper,Food
